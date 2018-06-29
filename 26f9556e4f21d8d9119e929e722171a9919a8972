@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "f859b1cb_02536818",
+        "filename": "libshims/gui/SensorManager.cpp",
+        "patchSetId": 1
+      },
+      "lineNbr": 32,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2018-06-29T08:56:02Z",
+      "side": 1,
+      "message": "Missed this one?",
+      "range": {
+        "startLine": 32,
+        "startChar": 9,
+        "endLine": 32,
+        "endChar": 30
+      },
+      "revId": "26f9556e4f21d8d9119e929e722171a9919a8972",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
