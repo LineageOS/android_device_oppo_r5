@@ -34,7 +34,7 @@
         <activity
             android:name=".OtgModeChooserActivity"
             android:excludeFromRecents="true"
-            android:theme="@style/Theme.SettingsDialog" />
+            android:theme="@android:style/Theme.DeviceDefault.Light.Dialog.NoActionBar" />
 
         <service android:name=".UsbDeviceMonitorService" />
 
