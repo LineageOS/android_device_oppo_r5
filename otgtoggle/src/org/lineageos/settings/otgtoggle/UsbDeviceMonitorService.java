@@ -17,6 +17,7 @@
 package org.lineageos.settings.otgtoggle;
 
 import android.app.Notification;
+import android.app.NotificationChannel;
 import android.app.NotificationManager;
 import android.app.PendingIntent;
 import android.app.Service;
@@ -191,16 +192,18 @@ public class UsbDeviceMonitorService extends Service {
             default: titleResId = R.string.connection_notification_title_detect; break;
         }
 
-        final Notification.Builder builder = new Notification.Builder(this)
+        final NotificationChannel channel = new NotificationChannel("device",
+                getString(R.string.otg_title), NotificationManager.IMPORTANCE_MIN);
+        channel.setLockscreenVisibility(Notification.VISIBILITY_PUBLIC);
+        nm.createNotificationChannel(channel);
+
+        final Notification.Builder builder = new Notification.Builder(this, "device")
                 .setSmallIcon(R.drawable.ic_headset_notification)
                 .setLocalOnly(true)
                 .setOngoing(true)
                 .setWhen(0)
-                .setDefaults(0)
                 .setShowWhen(false)
                 .setCategory(Notification.CATEGORY_SERVICE)
-                .setVisibility(Notification.VISIBILITY_PUBLIC)
-                .setPriority(Notification.PRIORITY_MIN)
                 .setColor(getResources().getColor(
                         com.android.internal.R.color.system_notification_accent_color))
                 .setContentTitle(getString(titleResId))
