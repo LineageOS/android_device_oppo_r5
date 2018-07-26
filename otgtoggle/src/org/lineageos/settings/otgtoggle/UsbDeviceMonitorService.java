@@ -115,7 +115,6 @@ public class UsbDeviceMonitorService extends Service {
         mUsbManager = (UsbManager) getSystemService(USB_SERVICE);
 
         mStateMachine = new UsbPortStateMachine(this);
-        mStateMachine.setDbg(true); // XXX
         mStateMachine.start();
 
         IntentFilter filter = new IntentFilter();
