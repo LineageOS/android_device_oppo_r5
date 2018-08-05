@@ -19,14 +19,14 @@
   <string name="app_name">OTGモード選択</string>
   <string name="connection_notification_title_headset">デバイスをヘッドセットとして接続済み</string>
   <string name="connection_notification_title_otg">デバイスをUSBデバイスとして接続済み</string>
-  <string name="connection_notification_title_detect">USBデバイスの種類を検出中...</string>
+  <string name="connection_notification_title_detect">USB デバイスの種類を検出中\u2026</string>
   <string name="connection_notification_text">タップしてモードを変更する</string>
   <string name="selection_dialog_title">接続されたデバイスを以下として使用する</string>
   <string name="auto_detect_title">自動検出</string>
   <string name="auto_detect_summary">接続されたデバイスがヘッドセットかUSBデバイスかどうかを自動的に検出する</string>
   <string name="headset_title">ヘッドセット</string>
   <string name="headset_summary">ヘッドセットモードで動作させるUSBポートを設定する</string>
-  <string name="otg_title">USBデバイス</string>
+  <string name="otg_title">USB デバイス</string>
   <string name="otg_summary">USB OTGモードで動作させるUSBポートを設定する</string>
   <string name="use_as_default">選択を記憶</string>
 </resources>
