@@ -62,5 +62,8 @@ TARGET_LD_SHIM_LIBS += \
     /system/lib/hw/camera.vendor.msm8916.so|libshim_camera.so \
     /system/vendor/lib/libmmqjpeg_codec.so|libboringssl-compat.so
 
+# Shipping API
+PRODUCT_SHIPPING_API_LEVEL := 19
+
 # Inherit from proprietary files
 include vendor/oppo/r5/BoardConfigVendor.mk
