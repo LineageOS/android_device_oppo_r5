@@ -24,7 +24,10 @@ LOCAL_PRIVILEGED_MODULE := true
 LOCAL_PRIVATE_PLATFORM_APIS := true
 
 LOCAL_STATIC_JAVA_LIBRARIES := \
-    org.lineageos.platform.internal \
-    android-support-v4
+    org.lineageos.platform.internal
+
+LOCAL_STATIC_ANDROID_LIBRARIES := \
+    android-support-v4 \
+    android-support-v7-preference
 
 include $(BUILD_PACKAGE)
