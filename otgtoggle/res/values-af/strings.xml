@@ -16,17 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">Kies OTG modus</string>
-  <string name="connection_notification_title_headset">Toestel gekoppel as kopstuk</string>
-  <string name="connection_notification_title_otg">Toestel gekoppel as USB-toestel</string>
-  <string name="connection_notification_title_detect">Opsporing van USB-toestel tipe\u2026</string>
-  <string name="connection_notification_text">Raak om modus te verander</string>
-  <string name="selection_dialog_title">Gebruik gekoppelde toestel as</string>
-  <string name="auto_detect_title">Outomatiese opsporing</string>
-  <string name="auto_detect_summary">Probeer om outomaties uit te vind of die gekoppelde toestel oorfone of \'n USB-toestel is</string>
-  <string name="headset_title">Oorfone</string>
-  <string name="headset_summary">Stel die USB-poort om te werk in oorfone modus</string>
-  <string name="otg_title">USB-toestel</string>
-  <string name="otg_summary">Stel die USB-poort om te werk in USB OTG modus</string>
-  <string name="use_as_default">Onthou besluit</string>
+    <string name="app_name">Kies OTG modus</string>
+    <string name="connection_notification_title_headset">Toestel gekoppel as kopstuk</string>
+    <string name="connection_notification_title_otg">Toestel gekoppel as USB-toestel</string>
+    <string name="connection_notification_title_detect">Opsporing van USB-toestel tipe\u2026</string>
+    <string name="connection_notification_text">Raak om modus te verander</string>
+    <string name="selection_dialog_title">Gebruik gekoppelde toestel as</string>
+    <string name="auto_detect_title">Outomatiese opsporing</string>
+    <string name="auto_detect_summary">Probeer om outomaties uit te vind of die gekoppelde toestel oorfone of \'n USB-toestel is</string>
+    <string name="headset_title">Oorfone</string>
+    <string name="headset_summary">Stel die USB-poort om te werk in oorfone modus</string>
+    <string name="otg_title">USB-toestel</string>
+    <string name="otg_summary">Stel die USB-poort om te werk in USB OTG modus</string>
+    <string name="use_as_default">Onthou besluit</string>
 </resources>

@@ -16,17 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">Přepínač režimů OTG</string>
-  <string name="connection_notification_title_headset">Zařízení připojeno jako sluchátka</string>
-  <string name="connection_notification_title_otg">Zařízení připojeno jako USB</string>
-  <string name="connection_notification_title_detect">Detekce typu USB zařízení\u2026</string>
-  <string name="connection_notification_text">Dotykem změnit režim</string>
-  <string name="selection_dialog_title">Použít připojené zařízení jako</string>
-  <string name="auto_detect_title">Automatická detekce</string>
-  <string name="auto_detect_summary">Pokusit se automaticky detekovat zda je zařízení připojeno jako sluchátka nebo jako zařízení USB</string>
-  <string name="headset_title">Sluchátka</string>
-  <string name="headset_summary">Nastavit port USB pro režim sluchátek</string>
-  <string name="otg_title">Zařízení USB</string>
-  <string name="otg_summary">Nastavit port USB pro režim USB OTG</string>
-  <string name="use_as_default">Pamatovat výběr</string>
+    <string name="app_name">Přepínač režimů OTG</string>
+    <string name="connection_notification_title_headset">Zařízení připojeno jako sluchátka</string>
+    <string name="connection_notification_title_otg">Zařízení připojeno jako USB</string>
+    <string name="connection_notification_title_detect">Detekce typu USB zařízení\u2026</string>
+    <string name="connection_notification_text">Dotykem změnit režim</string>
+    <string name="selection_dialog_title">Použít připojené zařízení jako</string>
+    <string name="auto_detect_title">Automatická detekce</string>
+    <string name="auto_detect_summary">Pokusit se automaticky detekovat zda je zařízení připojeno jako sluchátka nebo jako zařízení USB</string>
+    <string name="headset_title">Sluchátka</string>
+    <string name="headset_summary">Nastavit port USB pro režim sluchátek</string>
+    <string name="otg_title">Zařízení USB</string>
+    <string name="otg_summary">Nastavit port USB pro režim USB OTG</string>
+    <string name="use_as_default">Pamatovat výběr</string>
 </resources>

@@ -16,17 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">OTG 模式选择器</string>
-  <string name="connection_notification_title_headset">设备已作为耳机连接</string>
-  <string name="connection_notification_title_otg">设备已作为 USB 设备连接</string>
-  <string name="connection_notification_title_detect">正在检测 USB 设备类型\u2026</string>
-  <string name="connection_notification_text">点击以更改模式</string>
-  <string name="selection_dialog_title">将已连接的设备作为</string>
-  <string name="auto_detect_title">自动检测</string>
-  <string name="auto_detect_summary">尝试自动检测连接的设备是耳机还是 USB 设备</string>
-  <string name="headset_title">耳机</string>
-  <string name="headset_summary">将 USB 接口设置为在耳机模式下工作</string>
-  <string name="otg_title">USB 设备</string>
-  <string name="otg_summary">将 USB 接口设置为在 USB OTG 模式下工作</string>
-  <string name="use_as_default">记住此决定</string>
+    <string name="app_name">OTG 模式选择器</string>
+    <string name="connection_notification_title_headset">设备已作为耳机连接</string>
+    <string name="connection_notification_title_otg">设备已作为 USB 设备连接</string>
+    <string name="connection_notification_title_detect">正在检测 USB 设备类型\u2026</string>
+    <string name="connection_notification_text">点击以更改模式</string>
+    <string name="selection_dialog_title">将已连接的设备作为</string>
+    <string name="auto_detect_title">自动检测</string>
+    <string name="auto_detect_summary">尝试自动检测连接的设备是耳机还是 USB 设备</string>
+    <string name="headset_title">耳机</string>
+    <string name="headset_summary">将 USB 接口设置为在耳机模式下工作</string>
+    <string name="otg_title">USB 设备</string>
+    <string name="otg_summary">将 USB 接口设置为在 USB OTG 模式下工作</string>
+    <string name="use_as_default">记住此决定</string>
 </resources>

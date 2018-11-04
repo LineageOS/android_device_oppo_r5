@@ -16,17 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">OTG Modusvelger</string>
-  <string name="connection_notification_title_headset">Enhet tilkoblet som headset</string>
-  <string name="connection_notification_title_otg">Enhet tilkoblet som USB-enhet</string>
-  <string name="connection_notification_title_detect">Gjenkjenner USB enhetstype\u2026</string>
-  <string name="connection_notification_text">Trykk for å endre modus</string>
-  <string name="selection_dialog_title">Bruk tilkoblet enhet som</string>
-  <string name="auto_detect_title">Automatisk gjenkjenning</string>
-  <string name="auto_detect_summary">Prøver å gjenkjenne automatisk om den tilkoblede enheten er et håndfrisett eller en USB-enhet</string>
-  <string name="headset_title">Headset</string>
-  <string name="headset_summary">Gjør så USB-porten skal operere i headset modus</string>
-  <string name="otg_title">USB-enhet</string>
-  <string name="otg_summary">Gjør så USB-porten skal operere i USB OTG modus</string>
-  <string name="use_as_default">Husk valg</string>
+    <string name="app_name">OTG Modusvelger</string>
+    <string name="connection_notification_title_headset">Enhet tilkoblet som headset</string>
+    <string name="connection_notification_title_otg">Enhet tilkoblet som USB-enhet</string>
+    <string name="connection_notification_title_detect">Gjenkjenner USB enhetstype\u2026</string>
+    <string name="connection_notification_text">Trykk for å endre modus</string>
+    <string name="selection_dialog_title">Bruk tilkoblet enhet som</string>
+    <string name="auto_detect_title">Automatisk gjenkjenning</string>
+    <string name="auto_detect_summary">Prøver å gjenkjenne automatisk om den tilkoblede enheten er et håndfrisett eller en USB-enhet</string>
+    <string name="headset_title">Headset</string>
+    <string name="headset_summary">Gjør så USB-porten skal operere i headset modus</string>
+    <string name="otg_title">USB-enhet</string>
+    <string name="otg_summary">Gjør så USB-porten skal operere i USB OTG modus</string>
+    <string name="use_as_default">Husk valg</string>
 </resources>

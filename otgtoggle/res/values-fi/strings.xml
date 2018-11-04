@@ -16,17 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">OTG-tilan valitsin</string>
-  <string name="connection_notification_title_headset">Laite kytketty kuulokkeina</string>
-  <string name="connection_notification_title_otg">Laite kytketty USB-laitteena</string>
-  <string name="connection_notification_title_detect">Tunnistetaan USB-laitteen tyyppiä\u2026</string>
-  <string name="connection_notification_text">Kosketa vaihtaaksesi tilaa</string>
-  <string name="selection_dialog_title">Käytä yhdistettyä laitetta</string>
-  <string name="auto_detect_title">Automaattinen tunnistus</string>
-  <string name="auto_detect_summary">Yritä tunnistaa automaattisesti, onko liitetty laite USB-laite vai kuulokkeet</string>
-  <string name="headset_title">Kuulokkeet</string>
-  <string name="headset_summary">Aseta USB-portti kuuloketilaan</string>
-  <string name="otg_title">USB-laite</string>
-  <string name="otg_summary">Aseta USB-portti USB OTG-tilaan</string>
-  <string name="use_as_default">Muista valinta</string>
+    <string name="app_name">OTG-tilan valitsin</string>
+    <string name="connection_notification_title_headset">Laite kytketty kuulokkeina</string>
+    <string name="connection_notification_title_otg">Laite kytketty USB-laitteena</string>
+    <string name="connection_notification_title_detect">Tunnistetaan USB-laitteen tyyppiä\u2026</string>
+    <string name="connection_notification_text">Kosketa vaihtaaksesi tilaa</string>
+    <string name="selection_dialog_title">Käytä yhdistettyä laitetta</string>
+    <string name="auto_detect_title">Automaattinen tunnistus</string>
+    <string name="auto_detect_summary">Yritä tunnistaa automaattisesti, onko liitetty laite USB-laite vai kuulokkeet</string>
+    <string name="headset_title">Kuulokkeet</string>
+    <string name="headset_summary">Aseta USB-portti kuuloketilaan</string>
+    <string name="otg_title">USB-laite</string>
+    <string name="otg_summary">Aseta USB-portti USB OTG-tilaan</string>
+    <string name="use_as_default">Muista valinta</string>
 </resources>

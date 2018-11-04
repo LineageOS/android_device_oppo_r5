@@ -16,17 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">OTG-tilstandsvælger</string>
-  <string name="connection_notification_title_headset">Enhed forbundet som headset</string>
-  <string name="connection_notification_title_otg">Enhed forbundet som USB-enhed</string>
-  <string name="connection_notification_title_detect">Finder USB-enhedstype\u2026</string>
-  <string name="connection_notification_text">Tryk for at ændre tilstand</string>
-  <string name="selection_dialog_title">Anvend forbundet enhed som</string>
-  <string name="auto_detect_title">Find automatisk</string>
-  <string name="auto_detect_summary">Prøver automatisk at finde ud af om den forbundet enhed er et headset eller en USB-enhed</string>
-  <string name="headset_title">Håndfri</string>
-  <string name="headset_summary">Indstil USB-porten til at operere i hovedtelefon-tilstand</string>
-  <string name="otg_title">USB-enhed</string>
-  <string name="otg_summary">Indstil USB-porten til at operere i USB OTG-tilstand</string>
-  <string name="use_as_default">Husk beslutning</string>
+    <string name="app_name">OTG-tilstandsvælger</string>
+    <string name="connection_notification_title_headset">Enhed forbundet som headset</string>
+    <string name="connection_notification_title_otg">Enhed forbundet som USB-enhed</string>
+    <string name="connection_notification_title_detect">Finder USB-enhedstype\u2026</string>
+    <string name="connection_notification_text">Tryk for at ændre tilstand</string>
+    <string name="selection_dialog_title">Anvend forbundet enhed som</string>
+    <string name="auto_detect_title">Find automatisk</string>
+    <string name="auto_detect_summary">Prøver automatisk at finde ud af om den forbundet enhed er et headset eller en USB-enhed</string>
+    <string name="headset_title">Håndfri</string>
+    <string name="headset_summary">Indstil USB-porten til at operere i hovedtelefon-tilstand</string>
+    <string name="otg_title">USB-enhed</string>
+    <string name="otg_summary">Indstil USB-porten til at operere i USB OTG-tilstand</string>
+    <string name="use_as_default">Husk beslutning</string>
 </resources>

@@ -16,17 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">Izbirnik načina OTG</string>
-  <string name="connection_notification_title_headset">Naprava povezana kot slušalke</string>
-  <string name="connection_notification_title_otg">Naprava povezana kot naprava USB</string>
-  <string name="connection_notification_title_detect">Zaznavanje vrste naprave USB \u2026</string>
-  <string name="connection_notification_text">Dotaknite se za spreminjanje načina</string>
-  <string name="selection_dialog_title">Uporabi povezano napravo kot</string>
-  <string name="auto_detect_title">Samodejno zaznavanje</string>
-  <string name="auto_detect_summary">Poskusi samodejno zaznati, ali je povezana naprava naprava USB ali slušalke</string>
-  <string name="headset_title">Slušalke</string>
-  <string name="headset_summary">Nastavite vrata USB za delovanje v načinu za slušalke</string>
-  <string name="otg_title">Naprava USB</string>
-  <string name="otg_summary">Nastavite vrata USB za delovanje v načinu USB OTG</string>
-  <string name="use_as_default">Zapomni si izbiro</string>
+    <string name="app_name">Izbirnik načina OTG</string>
+    <string name="connection_notification_title_headset">Naprava povezana kot slušalke</string>
+    <string name="connection_notification_title_otg">Naprava povezana kot naprava USB</string>
+    <string name="connection_notification_title_detect">Zaznavanje vrste naprave USB \u2026</string>
+    <string name="connection_notification_text">Dotaknite se za spreminjanje načina</string>
+    <string name="selection_dialog_title">Uporabi povezano napravo kot</string>
+    <string name="auto_detect_title">Samodejno zaznavanje</string>
+    <string name="auto_detect_summary">Poskusi samodejno zaznati, ali je povezana naprava naprava USB ali slušalke</string>
+    <string name="headset_title">Slušalke</string>
+    <string name="headset_summary">Nastavite vrata USB za delovanje v načinu za slušalke</string>
+    <string name="otg_title">Naprava USB</string>
+    <string name="otg_summary">Nastavite vrata USB za delovanje v načinu USB OTG</string>
+    <string name="use_as_default">Zapomni si izbiro</string>
 </resources>
