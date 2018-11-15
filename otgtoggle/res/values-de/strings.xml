@@ -25,8 +25,8 @@
     <string name="auto_detect_title">Automatische Erkennung</string>
     <string name="auto_detect_summary">Versucht automatisch zu erkennen, ob das angeschlossene Gerät ein Headset oder ein USB-Gerät ist</string>
     <string name="headset_title">Kopfhörer</string>
-    <string name="headset_summary">USB-Schnittstelle im Headset-Modus betreiben</string>
+    <string name="headset_summary">USB-Schnittstelle im Headset-Modus betreiben </string>
     <string name="otg_title">USB-Gerät</string>
-    <string name="otg_summary">USB-Schnittstelle im OTG-Modus betreiben</string>
+    <string name="otg_summary">USB-Schnittstelle im OTG-Modus betreiben </string>
     <string name="use_as_default">Auswahl speichern</string>
 </resources>
