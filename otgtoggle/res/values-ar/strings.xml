@@ -15,4 +15,18 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"></resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">تحديد وضع OTG</string>
+    <string name="connection_notification_title_headset">الجهاز متصل كسماعة رأس</string>
+    <string name="connection_notification_title_otg">الجهاز متصل كجهاز USB</string>
+    <string name="connection_notification_title_detect">الكشف عن نوع جهاز USB</string>
+    <string name="connection_notification_text">إِلمس لتغيير الوضع</string>
+    <string name="selection_dialog_title">استخدم الجهاز المتصل كـ</string>
+    <string name="auto_detect_title">الكشف التلقائي</string>
+    <string name="auto_detect_summary">حاول الكشف تلقائياً ما إذا كان الجهاز المتصل هو سماعة رأس أو جهاز USB</string>
+    <string name="headset_title">سماعة الرأس</string>
+    <string name="headset_summary">اضبط منفذ USB لتشغيل وضع سماعة الرأس</string>
+    <string name="otg_title">جهاز USB</string>
+    <string name="otg_summary">تعيين منفذ USB للتشغيل في وضع USB OTG</string>
+    <string name="use_as_default">تذكر التحديد</string>
+</resources>

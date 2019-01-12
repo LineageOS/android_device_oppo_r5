@@ -15,4 +15,18 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2"></resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">OTG-režiimi valija</string>
+    <string name="connection_notification_title_headset">Seade ühendatud peakomplektina</string>
+    <string name="connection_notification_title_otg">Seade ühendatud USB-seadmena</string>
+    <string name="connection_notification_title_detect">USB-seadme tüübi tuvastamine\u2026</string>
+    <string name="connection_notification_text">Režiimi vahetamiseks koputa</string>
+    <string name="selection_dialog_title">Kasuta ühendatud seadet valikuna</string>
+    <string name="auto_detect_title">Automaatne tuvastus</string>
+    <string name="auto_detect_summary">Proovi automaatselt tuvastada, kas ühendatud seade on peakomplekt või USB-seade</string>
+    <string name="headset_title">Peakomplekt</string>
+    <string name="headset_summary">Määra USB-pordi režiimiks peakomplekt</string>
+    <string name="otg_title">USB-seade</string>
+    <string name="otg_summary">Määra USB-pordi režiimiks USB OTG</string>
+    <string name="use_as_default">Pea otsus meeles</string>
+</resources>

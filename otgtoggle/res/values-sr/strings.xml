@@ -16,17 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">Бирач OTG режима</string>
-  <string name="connection_notification_title_headset">Уређај конектован као слушалице</string>
-  <string name="connection_notification_title_otg">Уређај конектован као USB уређај</string>
-  <string name="connection_notification_title_detect">Откривање USB уређаја типа\u2026</string>
-  <string name="connection_notification_text">Додирни да промениш режим</string>
-  <string name="selection_dialog_title">Користи повезани уређај као</string>
-  <string name="auto_detect_title">Аутоматска детекција</string>
-  <string name="auto_detect_summary">Покушај да детектујеш аутоматски кад год је уређај повезан као слушалице или USB уређај</string>
-  <string name="headset_title">Слушалице</string>
-  <string name="headset_summary">Постави USB порт да ради у режиму слушалица</string>
-  <string name="otg_title">USB уређај</string>
-  <string name="otg_summary">Постави USB порт да ради у режиму USB OTG</string>
-  <string name="use_as_default">Запамти избор</string>
+    <string name="app_name">Бирач OTG режима</string>
+    <string name="connection_notification_title_headset">Уређај конектован као слушалице</string>
+    <string name="connection_notification_title_otg">Уређај конектован као USB уређај</string>
+    <string name="connection_notification_title_detect">Откривање USB уређаја типа\u2026</string>
+    <string name="connection_notification_text">Додирни да промениш режим</string>
+    <string name="selection_dialog_title">Користи повезани уређај као</string>
+    <string name="auto_detect_title">Аутоматска детекција</string>
+    <string name="auto_detect_summary">Покушај да детектујеш аутоматски кад год је уређај повезан као слушалице или USB уређај</string>
+    <string name="headset_title">Слушалице</string>
+    <string name="headset_summary">Постави USB порт да ради у режиму слушалица</string>
+    <string name="otg_title">USB уређај</string>
+    <string name="otg_summary">Постави USB порт да ради у режиму USB OTG</string>
+    <string name="use_as_default">Запамти избор</string>
 </resources>

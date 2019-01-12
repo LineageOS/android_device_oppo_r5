@@ -16,17 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">Selector de mode OTG</string>
-  <string name="connection_notification_title_headset">Dispositiu connectat com a auriculars</string>
-  <string name="connection_notification_title_otg">Dispositiu connectat com a dispositiu USB</string>
-  <string name="connection_notification_title_detect">S\'està detectant el tipus de dispositiu USB\u2026</string>
-  <string name="connection_notification_text">Toca per canviar el mode</string>
-  <string name="selection_dialog_title">Utilitza el dispositiu connectat com a</string>
-  <string name="auto_detect_title">Detecció automàtica</string>
-  <string name="auto_detect_summary">Intenta detectar automàticament si el dispositiu connectat son uns auriculars o un dispositiu USB</string>
-  <string name="headset_title">Auriculars</string>
-  <string name="headset_summary">Estableix el port USB per operar en el mode auriculars</string>
-  <string name="otg_title">Dispositiu USB</string>
-  <string name="otg_summary">Estableix el port USB per operar en el mode OTG</string>
-  <string name="use_as_default">Recorda la decisió</string>
+    <string name="app_name">Selector de mode OTG</string>
+    <string name="connection_notification_title_headset">Dispositiu connectat com a auriculars</string>
+    <string name="connection_notification_title_otg">Dispositiu connectat com a dispositiu USB</string>
+    <string name="connection_notification_title_detect">S\'està detectant el tipus de dispositiu USB\u2026</string>
+    <string name="connection_notification_text">Toca per canviar el mode</string>
+    <string name="selection_dialog_title">Utilitza el dispositiu connectat com a</string>
+    <string name="auto_detect_title">Detecció automàtica</string>
+    <string name="auto_detect_summary">Intenta detectar automàticament si el dispositiu connectat son uns auriculars o un dispositiu USB</string>
+    <string name="headset_title">Auriculars</string>
+    <string name="headset_summary">Estableix el port USB per operar en el mode auriculars</string>
+    <string name="otg_title">Dispositiu USB</string>
+    <string name="otg_summary">Estableix el port USB per operar en el mode OTG</string>
+    <string name="use_as_default">Recorda la decisió</string>
 </resources>

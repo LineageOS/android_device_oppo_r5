@@ -16,17 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">OTG-Modusauswahl</string>
-  <string name="connection_notification_title_headset">Gerät als Headset verbunden</string>
-  <string name="connection_notification_title_otg">Gerät als USB-Gerät verbunden</string>
-  <string name="connection_notification_title_detect">USB-Gerätetyp wird ermittelt\u2026</string>
-  <string name="connection_notification_text">Zum Wechsel des Gerätetyps berühren</string>
-  <string name="selection_dialog_title">Verbundenes Gerät verwenden als</string>
-  <string name="auto_detect_title">Automatische Erkennung</string>
-  <string name="auto_detect_summary">Versucht automatisch zu erkennen, ob das angeschlossene Gerät ein Headset oder ein USB-Gerät ist</string>
-  <string name="headset_title">Kopfhörer</string>
-  <string name="headset_summary">USB-Schnittstelle im Headset-Modus betreiben </string>
-  <string name="otg_title">USB-Gerät</string>
-  <string name="otg_summary">USB-Schnittstelle im OTG-Modus betreiben </string>
-  <string name="use_as_default">Auswahl speichern</string>
+    <string name="app_name">OTG-Modusauswahl</string>
+    <string name="connection_notification_title_headset">Gerät als Headset verbunden</string>
+    <string name="connection_notification_title_otg">Gerät als USB-Gerät verbunden</string>
+    <string name="connection_notification_title_detect">USB-Gerätetyp wird ermittelt\u2026</string>
+    <string name="connection_notification_text">Zum Wechsel des Gerätetyps berühren</string>
+    <string name="selection_dialog_title">Verbundenes Gerät verwenden als</string>
+    <string name="auto_detect_title">Automatische Erkennung</string>
+    <string name="auto_detect_summary">Versucht automatisch zu erkennen, ob das angeschlossene Gerät ein Headset oder ein USB-Gerät ist</string>
+    <string name="headset_title">Kopfhörer</string>
+    <string name="headset_summary">USB-Schnittstelle im Headset-Modus betreiben </string>
+    <string name="otg_title">USB-Gerät</string>
+    <string name="otg_summary">USB-Schnittstelle im OTG-Modus betreiben </string>
+    <string name="use_as_default">Auswahl speichern</string>
 </resources>

@@ -16,17 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">Selector del modo OTG</string>
-  <string name="connection_notification_title_headset">Dispositivo conectado como auriculares</string>
-  <string name="connection_notification_title_otg">Dispositivo conectado como dispositivo USB</string>
-  <string name="connection_notification_title_detect">Detectando el tipo de dispositivo USB\u2026</string>
-  <string name="connection_notification_text">Toca para cambiar el modo</string>
-  <string name="selection_dialog_title">Utilizar el dispositivo conectado como</string>
-  <string name="auto_detect_title">Detección automática</string>
-  <string name="auto_detect_summary">Intentar detectar automáticamente si el dispositivo conectado son unos auriculares o un dispositivo USB</string>
-  <string name="headset_title">Auriculares</string>
-  <string name="headset_summary">Establece el puerto USB para operar en modo auriculares</string>
-  <string name="otg_title">Dispositivo USB</string>
-  <string name="otg_summary">Establece el puerto USB para operar en modo OTG</string>
-  <string name="use_as_default">Recordar decisión</string>
+    <string name="app_name">Selector del modo OTG</string>
+    <string name="connection_notification_title_headset">Dispositivo conectado como auriculares</string>
+    <string name="connection_notification_title_otg">Dispositivo conectado como dispositivo USB</string>
+    <string name="connection_notification_title_detect">Detectando el tipo de dispositivo USB\u2026</string>
+    <string name="connection_notification_text">Toca para cambiar el modo</string>
+    <string name="selection_dialog_title">Utilizar el dispositivo conectado como</string>
+    <string name="auto_detect_title">Detección automática</string>
+    <string name="auto_detect_summary">Intentar detectar automáticamente si el dispositivo conectado son unos auriculares o un dispositivo USB</string>
+    <string name="headset_title">Auriculares</string>
+    <string name="headset_summary">Establece el puerto USB para operar en modo auriculares</string>
+    <string name="otg_title">Dispositivo USB</string>
+    <string name="otg_summary">Establece el puerto USB para operar en modo OTG</string>
+    <string name="use_as_default">Recordar decisión</string>
 </resources>

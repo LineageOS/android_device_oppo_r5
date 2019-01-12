@@ -16,17 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">Επιλογέας λειτουργίας OTG</string>
-  <string name="connection_notification_title_headset">Η συσκευή συνδέθηκε ως ακουστικά</string>
-  <string name="connection_notification_title_otg">Η συσκευή συνδέθηκε ως συσκευή USB</string>
-  <string name="connection_notification_title_detect">Ανίχνευση τύπου συσκευής USB\u2026</string>
-  <string name="connection_notification_text">Αγγίξτε για αλλαγή λειτουργίας</string>
-  <string name="selection_dialog_title">Χρήση συνδεδεμένης συσκευής ως</string>
-  <string name="auto_detect_title">Αυτόματη ανίχνευση</string>
-  <string name="auto_detect_summary">Προσπάθεια αυτόματης ανίχνευσης εάν η συνδεδεμένη συσκευή είναι ακουστικά ή συσκευή USB</string>
-  <string name="headset_title">Ακουστικά</string>
-  <string name="headset_summary">Ορίστε τη θύρα USB για λειτουργία ακουστικών</string>
-  <string name="otg_title">Συσκευή USB</string>
-  <string name="otg_summary">Ορίστε τη θύρα USB για λειτουργία USB OTG</string>
-  <string name="use_as_default">Απομνημόνευση επιλογής</string>
+    <string name="app_name">Επιλογέας λειτουργίας OTG</string>
+    <string name="connection_notification_title_headset">Η συσκευή συνδέθηκε ως ακουστικά</string>
+    <string name="connection_notification_title_otg">Η συσκευή συνδέθηκε ως συσκευή USB</string>
+    <string name="connection_notification_title_detect">Ανίχνευση τύπου συσκευής USB\u2026</string>
+    <string name="connection_notification_text">Αγγίξτε για αλλαγή λειτουργίας</string>
+    <string name="selection_dialog_title">Χρήση συνδεδεμένης συσκευής ως</string>
+    <string name="auto_detect_title">Αυτόματη ανίχνευση</string>
+    <string name="auto_detect_summary">Προσπάθεια αυτόματης ανίχνευσης εάν η συνδεδεμένη συσκευή είναι ακουστικά ή συσκευή USB</string>
+    <string name="headset_title">Ακουστικά</string>
+    <string name="headset_summary">Ορίστε τη θύρα USB για λειτουργία ακουστικών</string>
+    <string name="otg_title">Συσκευή USB</string>
+    <string name="otg_summary">Ορίστε τη θύρα USB για λειτουργία USB OTG</string>
+    <string name="use_as_default">Απομνημόνευση επιλογής</string>
 </resources>

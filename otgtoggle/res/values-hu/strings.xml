@@ -16,17 +16,17 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="app_name">OTG-mód választó</string>
-  <string name="connection_notification_title_headset">Eszköz fejhallgatóként csatlakoztatva</string>
-  <string name="connection_notification_title_otg">Eszköz USB-eszközként csatlakoztatva</string>
-  <string name="connection_notification_title_detect">USB-eszköz típusának meghatározása\u2026</string>
-  <string name="connection_notification_text">Érintse meg a módváltáshoz</string>
-  <string name="selection_dialog_title">Csatlakoztatott eszköz használata, mint</string>
-  <string name="auto_detect_title">Automatikus észlelés</string>
-  <string name="auto_detect_summary">Megpróbálja automatikusan észlelni, hogy a csatlakoztatott eszköz fejhallgató vagy USB-eszköz</string>
-  <string name="headset_title">Fejhallgató</string>
-  <string name="headset_summary">USB-port beállítása, hogy fejhallgató módban működjön</string>
-  <string name="otg_title">USB-eszköz</string>
-  <string name="otg_summary">USB-port beállítása, hogy USB OTG-módban működjön</string>
-  <string name="use_as_default">Emlékezzen a választásra</string>
+    <string name="app_name">OTG-mód választó</string>
+    <string name="connection_notification_title_headset">Eszköz fejhallgatóként csatlakoztatva</string>
+    <string name="connection_notification_title_otg">Eszköz USB-eszközként csatlakoztatva</string>
+    <string name="connection_notification_title_detect">USB-eszköz típusának meghatározása\u2026</string>
+    <string name="connection_notification_text">Érintse meg a módváltáshoz</string>
+    <string name="selection_dialog_title">Csatlakoztatott eszköz használata, mint</string>
+    <string name="auto_detect_title">Automatikus észlelés</string>
+    <string name="auto_detect_summary">Megpróbálja automatikusan észlelni, hogy a csatlakoztatott eszköz fejhallgató vagy USB-eszköz</string>
+    <string name="headset_title">Fejhallgató</string>
+    <string name="headset_summary">USB-port beállítása, hogy fejhallgató módban működjön</string>
+    <string name="otg_title">USB-eszköz</string>
+    <string name="otg_summary">USB-port beállítása, hogy USB OTG-módban működjön</string>
+    <string name="use_as_default">Emlékezzen a választásra</string>
 </resources>
