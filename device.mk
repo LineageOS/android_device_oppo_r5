@@ -51,7 +51,7 @@ PRODUCT_PACKAGES += \
     libboringssl-compat
 
 # Dalvik
-$(call inherit-product, frameworks/native/build/phone-xxhdpi-2048-dalvik-heap.mk)
+$(call inherit-product, frameworks/native/build/phone-xhdpi-2048-dalvik-heap.mk)
 
 # Density
 PRODUCT_AAPT_CONFIG := normal
