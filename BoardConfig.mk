@@ -38,7 +38,7 @@ BOARD_MKBOOTIMG_ARGS += --ramdisk_offset 0x02000000
 TARGET_KERNEL_CONFIG := lineageos_r5_defconfig
 
 # Keymaster
-TARGET_KEYMASTER_WAIT_FOR_QSEE := false
+TARGET_KEYMASTER_SKIP_WAITING_FOR_QSEE := true
 
 # Partition info
 BOARD_FLASH_BLOCK_SIZE := 131072
