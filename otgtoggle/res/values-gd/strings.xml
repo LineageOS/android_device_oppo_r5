@@ -23,6 +23,7 @@
     <string name="selection_dialog_title">Cleachd an t-uidheam ceangailte mar</string>
     <string name="auto_detect_title">Mothachadh fèin-obrachail</string>
     <string name="auto_detect_summary">Feuch ri mothachadh gu fèin-obrachail co-dhiù an e headset no uidheam USB a tha san uidhean cheangailte</string>
+    <string name="headset_title">Headset</string>
     <string name="headset_summary">Suidhich am port USB ach an obraich e sa mhodh headset</string>
     <string name="otg_title">Uidheam USB</string>
     <string name="otg_summary">Suidhich am port USB ach an obraich e sa mhodh USB OTG</string>
