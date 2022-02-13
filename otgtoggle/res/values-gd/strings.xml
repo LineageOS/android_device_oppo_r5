@@ -16,15 +16,15 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="app_name">Roghnaichear modh OTG</string>
-    <string name="connection_notification_title_headset">Chaidh an t-uidheam a cheangal ’na headset</string>
+    <string name="connection_notification_title_headset">Chaidh an t-uidheam a cheangal ’na sheata-cinn</string>
     <string name="connection_notification_title_otg">Chaidh an t-uidheam a cheangal ’na uidheam USB</string>
-    <string name="connection_notification_title_detect">A’ mothachadh do sheòrsa an uidheim…</string>
+    <string name="connection_notification_title_detect">A’ mothachadh do sheòrsa an uidheim\u2026</string>
     <string name="connection_notification_text">Suath ris airson am modh atharrachadh</string>
     <string name="selection_dialog_title">Cleachd an t-uidheam ceangailte mar</string>
     <string name="auto_detect_title">Mothachadh fèin-obrachail</string>
-    <string name="auto_detect_summary">Feuch ri mothachadh gu fèin-obrachail co-dhiù an e headset no uidheam USB a tha san uidhean cheangailte</string>
-    <string name="headset_title">Headset</string>
-    <string name="headset_summary">Suidhich am port USB ach an obraich e sa mhodh headset</string>
+    <string name="auto_detect_summary">Feuch ri mothachadh gu fèin-obrachail co-dhiù an e seata-cinn no uidheam USB a tha san uidhean cheangailte</string>
+    <string name="headset_title">Seata-cinn</string>
+    <string name="headset_summary">Suidhich am port USB ach an obraich e sa mhodh seata-cinn</string>
     <string name="otg_title">Uidheam USB</string>
     <string name="otg_summary">Suidhich am port USB ach an obraich e sa mhodh USB OTG</string>
     <string name="use_as_default">Cuimhnich an co-dhùnadh seo</string>
